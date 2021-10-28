@@ -1,0 +1,16 @@
+body { 
+  background-image: url(https://static1.srcdn.com/wordpress/wp-content/uploads/2019/06/Rick-And-Morty-Realistic-Rick.jpg?q=50&fit=crop&w=963&h=1117&dpr=1.5);
+ 
+  width: 60%;
+  margin: auto
+  margin-top: 30px;
+ 
+  text-align: center;
+  background-color: black;
+  color:  red;
+  font-family: arial;
+  
+ list-style-image: url(https://etherscan.io/token/images/rickandmorty_32.png);
+  
+  border-image: url(https://www.pvgr.eu/assets/img/articles/border-image-css-and-svg.png);
+}
